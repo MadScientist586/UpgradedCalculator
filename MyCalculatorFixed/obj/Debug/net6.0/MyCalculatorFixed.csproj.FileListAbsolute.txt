@@ -1,0 +1,15 @@
+C:\Users\Justin Martin\Desktop\Repos\MyCalculatorFixed\MyCalculatorFixed\bin\Debug\net6.0\MyCalculatorFixed.exe
+C:\Users\Justin Martin\Desktop\Repos\MyCalculatorFixed\MyCalculatorFixed\bin\Debug\net6.0\MyCalculatorFixed.deps.json
+C:\Users\Justin Martin\Desktop\Repos\MyCalculatorFixed\MyCalculatorFixed\bin\Debug\net6.0\MyCalculatorFixed.runtimeconfig.json
+C:\Users\Justin Martin\Desktop\Repos\MyCalculatorFixed\MyCalculatorFixed\bin\Debug\net6.0\MyCalculatorFixed.dll
+C:\Users\Justin Martin\Desktop\Repos\MyCalculatorFixed\MyCalculatorFixed\bin\Debug\net6.0\MyCalculatorFixed.pdb
+C:\Users\Justin Martin\Desktop\Repos\MyCalculatorFixed\MyCalculatorFixed\obj\Debug\net6.0\MyCalculatorFixed.csproj.AssemblyReference.cache
+C:\Users\Justin Martin\Desktop\Repos\MyCalculatorFixed\MyCalculatorFixed\obj\Debug\net6.0\MyCalculatorFixed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justin Martin\Desktop\Repos\MyCalculatorFixed\MyCalculatorFixed\obj\Debug\net6.0\MyCalculatorFixed.AssemblyInfoInputs.cache
+C:\Users\Justin Martin\Desktop\Repos\MyCalculatorFixed\MyCalculatorFixed\obj\Debug\net6.0\MyCalculatorFixed.AssemblyInfo.cs
+C:\Users\Justin Martin\Desktop\Repos\MyCalculatorFixed\MyCalculatorFixed\obj\Debug\net6.0\MyCalculatorFixed.csproj.CoreCompileInputs.cache
+C:\Users\Justin Martin\Desktop\Repos\MyCalculatorFixed\MyCalculatorFixed\obj\Debug\net6.0\MyCalculatorFixed.dll
+C:\Users\Justin Martin\Desktop\Repos\MyCalculatorFixed\MyCalculatorFixed\obj\Debug\net6.0\refint\MyCalculatorFixed.dll
+C:\Users\Justin Martin\Desktop\Repos\MyCalculatorFixed\MyCalculatorFixed\obj\Debug\net6.0\MyCalculatorFixed.pdb
+C:\Users\Justin Martin\Desktop\Repos\MyCalculatorFixed\MyCalculatorFixed\obj\Debug\net6.0\MyCalculatorFixed.genruntimeconfig.cache
+C:\Users\Justin Martin\Desktop\Repos\MyCalculatorFixed\MyCalculatorFixed\obj\Debug\net6.0\ref\MyCalculatorFixed.dll
